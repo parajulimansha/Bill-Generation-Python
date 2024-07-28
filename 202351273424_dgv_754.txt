@@ -1,0 +1,21 @@
+                                   MANSHA ELECTRONICS 
+
+                                   GAUSHALA, KATHMANDU  
+
+
+                                       9863444458    
+
+Name: dgv
+Phone Number: 754
+Date: 2023-5-12
+
+S.N 	 Name 		  Quantity   		Price 		Total
+1	Macbook Pro 16		1		 3500 		3500
+2	XPS           		1		 1976 		1976
+
+	 	 	 	   Total :   	 	 	 	5476
+	 	 	 	  Vat amount added :			 711.88
+	 	 	 	  Amount after VAT   :	 	 	6187.88
+
+
+
